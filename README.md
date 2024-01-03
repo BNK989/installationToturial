@@ -1,7 +1,7 @@
 # installationToturial
 
-**this is bald**
+**this is bold**
 
 - and
 - these
-- are bulletpoints
+- are bullet points
